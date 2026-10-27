@@ -84,8 +84,7 @@ Throughout my bootcamp, I've gained experience in:
 
 ---
 
-⭐ *"Turning data into insights, one project at a time."*
-
+⭐ Always learning, building, and growing in data analytics.
 
 
 
