@@ -1,29 +1,50 @@
 # Hi there 👋, I'm Sandra
 
-I'm currently studying Data Analytics through a 6-week bootcamp and enjoy learning how data can be used to solve problems and support better decision-making.
+I'm an aspiring Data Analyst with a passion for turning data into meaningful insights. I enjoy working with data, building dashboards, creating reports, and using analytics to support data-driven decision-making.
 
-As I build my skills, I'm working on projects involving data cleaning, analysis, visualisation, and reporting. This GitHub is where I share my learning journey and showcase the projects I create along the way.
+🌱 Currently developing my skills in data analytics, business intelligence, and cloud technologies.
 
-## 🛠️ Skills
-- Excel
-- SQL
-- Python
-- Pandas
+## 🛠️ Skills & Technologies
+
+### 📊 Data Analysis & Visualisation
+- Microsoft Excel
 - Power BI
 - Tableau
-- Azure Data Fundamentals
 
-## 🌱 Currently Learning
-- Data Analysis
-- Data Visualisation
-- Dashboard Development
+### 🗄️ Databases
+- SQL
+
+### ☁️ Cloud & Data Platforms
+- Microsoft Azure Data Services
+
+### 🐍 Programming
+- Python
+- Pandas
+
+## 📈 What I Do
+
+- Clean and transform data using Python and Pandas
+- Analyse datasets and write queries with SQL
+- Create interactive dashboards in Power BI and Tableau
+- Build reports and visualisations in Excel
+- Explore cloud-based analytics using Azure
+- Turn data into actionable business insights
+
+## 🚀 Current Focus
+
+I'm currently expanding my knowledge in:
+- Advanced SQL
+- Azure Data Engineering Fundamentals
 - Data Modelling
-- Azure Data Technologies
-
-## 🚀 My Goal
-To continue developing my technical and analytical skills and start a career in data analytics.
+- Machine Learning with Python
 
 ## 📫 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/sandra-reine-9a064a7a/]
 
-Thanks for visiting my profile! Feel free to check out my projects and follow my progress. 😊
+- - LinkedIn: [https://www.linkedin.com/in/sandra-reine-9a064a7a/]
+
+⭐ Always learning, building, and growing my data analytics skills.
+
+
+
+
+
