@@ -1,25 +1,29 @@
 # Hi there 👋, I'm Sandra
 
-I'm currently building my career in data and technology, developing skills in data analysis, visualisation, and cloud technologies. I enjoy solving problems, learning new tools, and using data to help uncover insights and support better decision-making.
+I'm currently studying Data Analytics through a 6-week bootcamp and enjoy learning how data can be used to solve problems and support better decision-making.
 
-Over the last year, I've been working with Excel, SQL, Python, Power BI, and Tableau, creating projects that help me strengthen both my technical and analytical skills.
+As I build my skills, I'm working on projects involving data cleaning, analysis, visualisation, and reporting. This GitHub is where I share my learning journey and showcase the projects I create along the way.
 
-## 🛠️ Tech Stack
-- 📊 Excel, Power BI, Tableau
-- 🗄️ SQL
-- ☁️ Azure Data Services
-- 🐍 Python & Pandas
-
-## 🌱 What I'm Learning
-- Advanced SQL
+## 🛠️ Skills
+- Excel
+- SQL
+- Python
+- Pandas
+- Power BI
+- Tableau
 - Azure Data Fundamentals
-- Data Modelling
-- Machine Learning with Python
 
-## 🚀 What You'll Find Here
-This GitHub is where I document my learning journey, share projects, and continue developing my skills in data analytics and business intelligence.
+## 🌱 Currently Learning
+- Data Analysis
+- Data Visualisation
+- Dashboard Development
+- Data Modelling
+- Azure Data Technologies
+
+## 🚀 My Goal
+To continue developing my technical and analytical skills and start a career in data analytics.
 
 ## 📫 Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/sandra-reine-9a064a7a/]
 
-Thanks for stopping by! 😊
+Thanks for visiting my profile! Feel free to check out my projects and follow my progress. 😊
