@@ -40,7 +40,7 @@ I'm currently expanding my knowledge in:
 
 ## 📫 Connect With Me
 
-- - LinkedIn: [https://www.linkedin.com/in/sandra-reine-9a064a7a/]
+- LinkedIn: [https://www.linkedin.com/in/sandra-reine-9a064a7a/]
 
 ⭐ Always learning, building, and growing my data analytics skills.
 
