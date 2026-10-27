@@ -1,48 +1,91 @@
-# Hi there 👋, I'm Sandra
+# Hi there 👋 I'm Sandra
 
-I'm an aspiring Data Analyst with a passion for turning data into meaningful insights. I enjoy working with data, building dashboards, creating reports, and using analytics to support data-driven decision-making.
+🚀 Aspiring Data Analyst | Data Technician Bootcamp Student
 
-🌱 Currently developing my skills in data analytics, business intelligence, and cloud technologies.
+I'm currently developing my data and analytics skills through an intensive **8-week Data Technician Bootcamp**, where I've gained hands-on experience working with data, creating dashboards, writing queries, and exploring cloud technologies.
 
-## 🛠️ Skills & Technologies
+I enjoy transforming raw data into meaningful insights and continuously learning new tools and technologies to strengthen my analytical and problem-solving abilities.
+
+---
+
+## 💡 About Me
+
+🎓 Completed 8 weeks of intensive Data Technician training
+
+📊 Passionate about data analysis, visualisation, and business intelligence
+
+📈 Experienced in cleaning, transforming, and analysing datasets
+
+☁️ Building knowledge of cloud-based data solutions with Microsoft Azure
+
+🧠 Always learning and expanding my technical skillset
+
+---
+
+## 🛠️ Technical Skills
 
 ### 📊 Data Analysis & Visualisation
 - Microsoft Excel
-- Power BI
 - Tableau
+- Power BI
 
-### 🗄️ Databases
+### 🗄️ Databases & Querying
 - SQL
+  - SELECT
+  - WHERE
+  - GROUP BY
+  - ORDER BY
+  - JOINs
 
-### ☁️ Cloud & Data Platforms
-- Microsoft Azure Data Services
+### ☁️ Cloud Technologies
+- Microsoft Azure Data Fundamentals (DP-900)
+- Relational & Non-Relational Data Concepts
+- Cloud Computing Fundamentals
 
 ### 🐍 Programming
 - Python
 - Pandas
 
-## 📈 What I Do
+---
 
-- Clean and transform data using Python and Pandas
-- Analyse datasets and write queries with SQL
-- Create interactive dashboards in Power BI and Tableau
-- Build reports and visualisations in Excel
-- Explore cloud-based analytics using Azure
-- Turn data into actionable business insights
+## 📚 What I've Learned
 
-## 🚀 Current Focus
+Throughout my bootcamp, I've gained experience in:
 
-I'm currently expanding my knowledge in:
-- Advanced SQL
-- Azure Data Engineering Fundamentals
+✅ Data Cleaning and Preparation
+
+✅ Data Analysis and Reporting
+
+✅ Dashboard Development
+
+✅ Data Visualisation
+
+✅ Query Writing and Database Management
+
+✅ Basic Cloud Data Concepts
+
+✅ Working with Real-World Datasets
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL Techniques
+- Python for Data Analysis
 - Data Modelling
-- Machine Learning with Python
+- Azure Data Services
+- Business Intelligence Best Practices
 
-## 📫 Connect With Me
+---
+
+## 📫 Let's Connect
 
 - LinkedIn: [https://www.linkedin.com/in/sandra-reine-9a064a7a/]
 
-⭐ Always learning, building, and growing my data analytics skills.
+---
+
+⭐ *"Turning data into insights, one project at a time."*
+
 
 
 
